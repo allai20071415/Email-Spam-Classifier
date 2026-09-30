@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1
+Naive Bayes,1.0,1.0,1.0,1.0
+Logistic Regression,1.0,1.0,1.0,1.0
+SVM,1.0,1.0,1.0,1.0
